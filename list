@@ -1,4 +1,6 @@
 {
     "code": 200,
-    "hosts": []
+    "hosts": [
+        "gogoteam.vip"
+    ]
 }
